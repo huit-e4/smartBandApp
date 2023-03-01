@@ -1,0 +1,10 @@
+{
+  "name": "OpenSmartBand",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "v2": true,
+  "typescript": true,
+  "id": "60399d4c"
+}
